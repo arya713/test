@@ -1,1 +1,2 @@
 Ini adalah file baru yang digunakan untuk merge dengan master
+Dari branch kedua dengan nama aria-2 saya tambahkan kalimaat sebagai bukti
